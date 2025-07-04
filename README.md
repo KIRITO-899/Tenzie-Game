@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎲 Tenzies Game
 
 A fun and interactive dice game built with React where players roll dice to match all values! Challenge yourself to get the lowest score possible.
@@ -111,10 +111,6 @@ The game is fully responsive and works great on:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🎉 Acknowledgments
 
 - Thanks to Scrimba for the original Tenzies game concept
@@ -130,4 +126,4 @@ TRY ONCE IF YOU LIKE
 THE RULES ARE TO MATCH ALL THE 10 DICES IN LESS NUMBER OF DICES AS YOU PLAY YOURSELF OR WITH OTHERS.
 
 lets see how it goes...
->>>>>>> 23e804eecbc26ffbbd4f156c09b828031f320bfb
+
